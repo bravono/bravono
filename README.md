@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ahbideen
 - 👀 I’m interested in programming and animation
-- 🌱 I’m currently learning React
-- 🌱 I have learnt HTML, CSS, Typescript and JavaScript
+- 🌱 I’m currently learning Git
+- 🌱 I have learnt HTML, CSS, Typescript, JavaScript and React
 - 💞️ I’m looking to collaborate on any Front-End project
 - 📫 How to reach me @ahbideenyusuf@gmail.com
 
