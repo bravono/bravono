@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Git
 - 🌱 I have learnt HTML, CSS, Typescript, JavaScript and React
 - 💞️ I’m looking to collaborate on any Front-End project
-- 📫 How to reach me @ahbideenyusuf@gmail.com
+- 📫 How to reach me @ahbideeny@gmail.com
 
 <!---
 bravono/bravono is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
