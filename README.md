@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Ahbideen
-- 👀 I’m interested in programming and animation
-- 🌱 I’m currently learning Git
-- 🌱 I have learnt HTML, CSS, Typescript, JavaScript and React
-- 💞️ I’m looking to collaborate on any Front-End project
+- 👀 I’m interested in programming and 3D animation
+- 🌱 I’m currently learning Data Structure and Algorithm
+- 🌱 I have learnt HTML, CSS, TypeScript, JavaScript, Redux, React, MySQL, and Node.js
+- 💞️ I’m looking to collaborate on any full-stack project
 - 📫 How to reach me @ahbideeny@gmail.com
 
 <!---
